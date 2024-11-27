@@ -91,3 +91,14 @@ To understand what it should contain, we need to figure out what questions we ne
 6. Which 3 channels have the highest subscriber engagement rate per video uploaded?
 
 For now, these are some of the questions we need to answer, this may change as we progress down our analysis.
+
+# Dashboard mockup
+
+Some of the data visuals that may be appropriate in answering our questions include:
+
+1. Table
+2. Treemap
+3. Scorecards
+4. Horizontal bar chart
+
+![Dashboard mockup](E:\Data anlaytics\Youtube_data_UK\ESPB.png)
