@@ -44,7 +44,7 @@ Create a dashboard to identify top UK YouTubers in 2024 for marketing campaigns.
 
 This dashboard will help the marketing team make data-driven decisions and efficiently choose YouTubers for their campaigns.
 
-## User story
+### User story
 
 As the Head of Marketing,
 I want to use a dashboard that analyzes YouTube channel data in the UK,
@@ -78,7 +78,7 @@ ensuring that each marketing campaign is as effective as possible.
 - Analysis
 
 # Design
-## Dashboard components required
+### Dashboard components required
 - What should the dashboard contain based on the requirements provided?
 
 To understand what it should contain, we need to figure out what questions we need the dashboard to answer:
@@ -92,7 +92,7 @@ To understand what it should contain, we need to figure out what questions we ne
 
 For now, these are some of the questions we need to answer, this may change as we progress down our analysis.
 
-# Dashboard mockup
+### Dashboard mockup
 
 Some of the data visuals that may be appropriate in answering our questions include:
 
@@ -102,3 +102,13 @@ Some of the data visuals that may be appropriate in answering our questions incl
 4. Horizontal bar chart
 
 ![Dashboard mockup](image/Mockup.png)
+
+### Tools
+
+|Tool|Purpose|
+|Excel|Exploring the data|
+|Python|API script, To Extract data from Youtube|
+|SQL Server|Cleaning, testing, and analyzing the data|
+|Power BI|Visualizing the data via interactive dashboards|
+|GitHub|Hosting the project documentation and version control|
+|Mokkup AI|Designing the wireframe/mockup of the dashboard|
