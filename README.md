@@ -1,6 +1,6 @@
 # Data Portfolio: Excel, SQL, Python, & Power BI - Top 10 youtupers in UK 
 
-![Excel, SQL, Python, & Power BI](E:\Data anlaytics\Youtube_data_UK\ESPB.png)
+![Excel, SQL, Python, & Power BI](Top-10-Youtubers-UK/image/ESPB.png)
 
 # Table of contents
 
@@ -101,4 +101,4 @@ Some of the data visuals that may be appropriate in answering our questions incl
 3. Scorecards
 4. Horizontal bar chart
 
-![Dashboard mockup](E:\Data anlaytics\Youtube_data_UK\ESPB.png)
+![Dashboard mockup](image/Mockup.png)
