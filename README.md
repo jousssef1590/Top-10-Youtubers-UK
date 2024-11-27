@@ -113,3 +113,34 @@ Some of the data visuals that may be appropriate in answering our questions incl
 |Power BI   | Visualizing the data via interactive dashboards       |
 |GitHub     | Hosting the project documentation and version control |
 |Mokkup AI  | Designing the wireframe/mockup of the dashboard       |
+
+# Development
+
+### Pseudocode
+
+- What's the general approach in creating this solution from start to finish?
+  1. Get the data 
+  2. Explore the data in Excel
+  3. Create python script to extract data from youtube
+  4. Load the data into SQL Server
+  5. Clean the data with SQL
+  6. Test the data with SQL
+  7. Visualize the data in Power BI
+  8. Generate the findings based on the insights
+  9. Write the documentation + commentary
+  10. Publish the data to GitHub Pages
+
+### Data exploration notes
+
+This is the stage where you have a scan of what's in the data, errors, inconcsistencies, bugs, weird and corrupted characters etc
+
+- What are your initial observations with this dataset? What's caught your attention so far?
+1. There are at least 4 columns that contain the data we need for this analysis, which signals we have everything we need from the file without needing to contact the client for any more data.
+2. The first column contains the channel ID with what appears to be channel IDS, which are separated by a @ symbol - we need to extract the channel names from this.
+3. Some of the cells and header names are in a different language - we need to confirm if these columns are needed, and if so, we need to address them.
+4. We have more data than we need, so some of these columns would need to be removed
+
+
+
+   
+
