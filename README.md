@@ -222,7 +222,7 @@ FROM
 - What data quality and validation checks are you going to create?
   
 Here are the data quality tests conducted:
-    
+#### Row count check    
 ```sql
 {/*
 # Count the total number of records (or rows) are in the SQL view
