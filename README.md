@@ -174,8 +174,9 @@ And here is a tabular representation of the expected schema for the clean data:
 3. Rename columns using aliases
    
 ### Transform the data
+
 '''sql
-{/*
+/*
 # 1. Select the required columns
 # 2. Extract the channel name from the 'NOMBRE' column
 */
@@ -188,8 +189,8 @@ SELECT
     total_videos
 
 FROM
-    top_uk_youtubers_2024}
+    top_uk_youtubers_2024
 
-'''
+
    
 
