@@ -235,6 +235,6 @@ FROM
 
 }
 ```
-![sql](image/Screenshot2024-11-28120503.png)
+![sql](image/1.png)
 
 
